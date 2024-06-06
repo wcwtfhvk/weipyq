@@ -8,7 +8,7 @@ const CONFIG = {
   //生产环境配置
   production: {
     assetsPath: "/static/images/", // 静态资源路径
-    baseUrl: "https://wei.jzzz66.cn",
+    baseUrl: "http://localhost:3000",
   },
 };
 
